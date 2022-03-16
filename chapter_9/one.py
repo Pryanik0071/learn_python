@@ -1,17 +1,13 @@
 class Restaurant:
-
     def __init__(self, restaurant_name, cuisine_type):
-
         self.name = restaurant_name
         self.cuisine = cuisine_type
 
     def describe_restaurant(self):
-
         print(f'Название ресторана: {self.name}')
         print(f'Кухня: {self.cuisine}')
 
     def open_restaurant(self):
-
         print('Ресторан открыт!')
 
 
