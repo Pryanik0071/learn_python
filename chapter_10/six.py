@@ -1,4 +1,4 @@
-"""Task - 10.6. Изучение Python"""
+"""Task - 10.6. Сложение"""
 try:
     a, b = int(input()), int(input())
 except ValueError as err:
