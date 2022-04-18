@@ -1,4 +1,4 @@
-"""Task - 10.7. Изучение Python"""
+"""Task - 10.7. Калькулятор"""
 while True:
     try:
         a = int(input('Enter first number: '))
