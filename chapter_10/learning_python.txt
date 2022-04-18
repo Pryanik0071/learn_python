@@ -1,0 +1,4 @@
+In Python you can... ONE
+In Python you can... 2
+In Python you can... 333
+In Python you can... четыре
